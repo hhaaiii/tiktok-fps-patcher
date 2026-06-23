@@ -18,9 +18,13 @@ Uses RIFE to generate between frames of your videos, and FFMPEG to rebuild them 
 
 ### Notes
 ♡ TikTok preset and interpolation cannot be used together.
+
 ♡ Interpolate your video BEFORE TikTok preset.
+
 ♡ Do not remove FFMPEG nor RIFE from this folder, this .exe is fully reliant on them. Won't function otherwise.
+
 ♡ Interpolation is experimental, it is not reliable, I recommend using f0e's blur instead ↓↓↓
+
 ---------------------------------- https://github.com/f0e/blur ----------------------------------
 
 ### TUTORIAL
