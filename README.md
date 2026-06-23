@@ -41,8 +41,11 @@ Uses RIFE to generate between frames of your videos, and FFMPEG to rebuild them 
 
 ### KNOWN ISSUES
 ♡ TikTok Preset videos may have audio sync issues in Discord, Windows Media Player, and other applications.
+
 ♡ This is expected and does not appear to affect playback on TikTok mobile.
+
 ♡ If TikTok playback is actually affected, please report it alongside a screen-recording or TikTok link.
+
 
 ### SUGGESTIONS? BUGS? TROUBLESHOOTING?
 contact hhaaiii on discord ♡
@@ -56,7 +59,9 @@ Authorized for personal use only.
 Redistribution, rehosting, mirroring, repackaging, or archiving is not authorized without permission.
 
 Official versions are only distributed here:
+
 ♡ breakwater.owo
+
 ♡ https://discord.gg/QTf8hxEYsC
 
 Reuploading may result in a DMCA or other copyright enforcement.
