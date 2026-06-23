@@ -29,9 +29,13 @@ Uses RIFE to generate between frames of your videos, and FFMPEG to rebuild them 
 
 ### TUTORIAL
 ♡ Edit your video however, include your music and captions if wanted (you cannot do this later)
+
 ♡ Use f0e's blur for motion blur and interpolation (if wanted), export at 60fps.
+
 ♡ Open this .exe, select 30fps, "tiktok preset"
+
 ♡ Video will convert quickly, upload to TikTok web, do not edit it, no music, no video text, nothing.
+
 ♡ Video will appear slow on PC, Discord, pretty much anything outside of TikTok mobile, to be expected.
 
 
