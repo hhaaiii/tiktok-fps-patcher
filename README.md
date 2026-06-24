@@ -61,7 +61,7 @@ Redistribution, rehosting, mirroring, repackaging, or archiving is not authorize
 
 Official versions are only distributed here:
 
-♡ breakwater.owo
+♡ [sweeter.online](https://sweeter.online/)
 
 ♡ https://discord.gg/QTf8hxEYsC
 
