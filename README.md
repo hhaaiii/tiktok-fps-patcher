@@ -63,7 +63,7 @@ Official versions are only distributed here:
 
 ♡ [sweeter.online](https://sweeter.online/)
 
-♡ https://discord.gg/QTf8hxEYsC
+♡ [discord support](https://discord.gg/QTf8hxEYsC)
 
 Reuploading may result in a DMCA or other copyright enforcement.
 
